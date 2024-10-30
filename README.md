@@ -21,8 +21,3 @@
 
 ## Description
 The Demo Dashboard serves as a streamlined interface for presenting various business models, enabling stakeholders to gain a clear and structured understanding of key components and metrics. 
-
-## Project Setup
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
